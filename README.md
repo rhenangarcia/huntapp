@@ -4,12 +4,12 @@
 
 Application developed in the **[Starter / React Native Course](https://rocketseat.com.br/starter)** by **[Rocketseat](https://rocketseat.com.br/)**.
 
-It consists of a mobile application to expose the API built in the [huntapi project](https://rhenangarcia.github.io/huntapi/), displaying the digital products stored in the Mongo database.
+It consists of a mobile application to expose the API built in the [huntapi project](https://rhenangarcia.github.io/huntapi), displaying the digital products stored in the Mongo database.
 
 ## 🌎 Demonstration
 To help visualize the application, a demonstration was set up using [Rocketseat's API](https://rocketseat-node.herokuapp.com/api/products) as backend:
-* **[Click here](https://appetize.io/embed/8bnmakzrptf1hv9dq7v7bnteem?autoplay=true&debug=true&device=iphone6s&deviceColor=black&embed=true&orientation=portrait&screenOnly=false&xDocMsg=true&xdocMsg=true&params=%7B%22EXKernelLaunchUrlDefaultsKey%22:%22exp:%2F%2Fexpo.io%2F@z10n%2F1f4916%2BEuyPBsMWf%22,%22EXKernelDisableNuxDefaultsKey%22:true%7D&scale=75&osVersion=13.3)** to see it on **iPhone 6S**;
-* **[Click here](https://appetize.io/embed/xc1w6f1krd589zhp22a0mgftyw?autoplay=true&debug=true&device=nexus5&deviceColor=black&embed=true&launchUrl=exp:%2F%2Fexpo.io%2F@z10n%2F1f4916%2BAmgycRogk&orientation=portrait&screenOnly=false&xDocMsg=true&xdocMsg=true&params=%7B%22EXKernelLaunchUrlDefaultsKey%22:%22exp:%2F%2Fexpo.io%2F@z10n%2F1f4916%2BAmgycRogk%22,%22EXKernelDisableNuxDefaultsKey%22:true%7D&scale=75&osVersion=8.1)** to see it on **Nexus 5**.
+* **[Click here](https://appetize.io/embed/8bnmakzrptf1hv9dq7v7bnteem?autoplay=true&debug=true&device=iphone6s&deviceColor=black&embed=true&orientation=portrait&screenOnly=false&xDocMsg=true&xdocMsg=true&params=%7B%22EXKernelLaunchUrlDefaultsKey%22:%22exp:%2F%2Fexpo.io%2F@z10n%2Fhuntexpo-preview%2BDLOAPe0!r%22,%22EXKernelDisableNuxDefaultsKey%22:true%7D&scale=75&osVersion=13.3)** to see it on **iPhone 6S**;
+* **[Click here](https://appetize.io/embed/xc1w6f1krd589zhp22a0mgftyw?autoplay=true&debug=true&device=nexus5&deviceColor=black&embed=true&launchUrl=exp:%2F%2Fexpo.io%2F@z10n%2Fhuntexpo-preview%2BDLOAPe0!r&orientation=portrait&screenOnly=false&xDocMsg=true&xdocMsg=true&params=%7B%22EXKernelLaunchUrlDefaultsKey%22:%22exp:%2F%2Fexpo.io%2F@z10n%2Fhuntexpo-preview%2BDLOAPe0!r%22,%22EXKernelDisableNuxDefaultsKey%22:true%7D&scale=75&osVersion=8.1)** to see it on **Nexus 5**.
 
 ## 🧰 Prerequisites
 Make sure you have installed all of the following prerequisites on your machine:
